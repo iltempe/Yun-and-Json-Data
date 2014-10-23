@@ -1,3 +1,4 @@
+//primo esperimento di "Internet Nelle Cose" wwww.pratosmart.org
 #include <Bridge.h>;
 #include <YunServer.h>
 #include <YunClient.h>
